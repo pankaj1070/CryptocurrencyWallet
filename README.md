@@ -1,16 +1,16 @@
-## Unit 19 Homework: Cryptocurrency Wallet
+Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
 
 ### Background
 
-The task is integrating the Ethereum blockchain network into the KryptoJobs2Go application in order to enable our customers to instantly pay the fintech professionals whom we hire with cryptocurrency.
+The task of this project is to integrate the Ethereum blockchain network into the KryptoJobs2Go application in order to enable our customers to instantly pay the fintech professionals whom we hire with cryptocurrency.
 
 In this Challenge, I completed the code that enables our customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, I assumed the perspective of a KryptoJobs2Go customer who is using the application to find a fintech professional and pay them for their work.
 
 ### Details
 
-To complete this Challenge, two Python files are used, both of which are contained in the code folder.
+To complete this Challenge, two Python files were used, both of which are present in the code folder.
 
 The first file t is called `krypto_jobs.py`. It contains the code associated with the web interface of your application. The code included in this file is compatible with the Streamlit library. 
 
@@ -91,6 +91,8 @@ To accomplish the Step 2, the following steps were followed:
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+
+![An image shows Ganache transaction details of reciever.](Images/Ganache_reciever.png)
 
 ![An image shows the web application.](Images/Streamlit.png)
 
