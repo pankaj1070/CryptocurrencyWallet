@@ -92,7 +92,7 @@ To accomplish the Step 2, the following steps were followed:
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
-![An image shows Ganache transaction details of reciever.](Images/Ganache_reciever.png)
+![An image shows Ganache transaction details of reciever.](Images/Ganachereciever.png)
 
 ![An image shows the web application.](Images/Streamlit.png)
 
