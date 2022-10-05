@@ -90,7 +90,7 @@ To accomplish the Step 2, the following steps were followed:
 
 5. Return to the original transaction, and click the transaction’s To address.
 
-* Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
 ![An image shows Ganache reciever details.](Images/Ganache3.png)
 
